@@ -20,10 +20,10 @@ Work organization
 * Do you have a kind of FAQ for newcomers?
 * Do you participate in open-source projects?
 * Do you encourage employees to run their own open-source, side projects, blogs?
-* Will I personally work with business/end customer?
-* Do you inform employees about the company strategy and strategical plans?
 * Do developers work with clients? 
+* Will I personally work with business/end customer?
 * What developers know about the projects they work on?
+* Do you inform employees about the company strategy and strategical plans?
 
 Development process
 ===================
