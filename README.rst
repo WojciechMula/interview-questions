@@ -7,7 +7,7 @@ Work organization
 * Do you pay extra for overtime?
 * Is home office possible? When?
 * What perks do you offer? [extra health care, insurance, etc.]
-* What facilites does your office have? [parking spot, bike parking, etc.]
+* What facilities does your office have? [parking spot, bike parking, etc.]
 * Are your developers keen on helping others?
 * Do you encourage communication between employees?
 * How do you resolve interpersonal conflicts?
@@ -16,7 +16,7 @@ Work organization
 * What is the organizational structure?
 * Do you promote developer's ideas?
 * Do you punish developer for bugs?
-* Do you provide internal trenings?
+* Do you provide internal trainings?
 * Do you have a kind of FAQ for newcomers?
 * Do you participate in open-source projects?
 * Do you encourage employees to run their own open-source, side projects, blogs?
