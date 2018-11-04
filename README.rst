@@ -58,8 +58,13 @@ Technical details
 * How do you monitor your application? (logs, hooks, whatever)
 * What other extra tools do you have?
 
-
 My responsibilites
 ==================
 
 * What will I do at the beginning?
+
+Random stuff
+==================
+
+* Which of my github/bitbucket/whatever project do you like the most?
+  Which is terrible?
